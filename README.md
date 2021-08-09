@@ -1,2 +1,2 @@
 # urna-virtual
-urna eletronica no modelo virtual, a mudança nos candidatos é feita facilmente nos codigos, a adição de novos cargos como por exemplo governadores, vereadores e etc também é de facil acesso!
+Copia da Urna eletronica que conhecemos, tentei deixar o maximo parecido com a mesma, este modelo está como votação em presidentes, mas a adição de novos cargos como vereadores, prefeitos e etc está de facil acesso nos codigos apenas mudando a etapa.js e adicionando imagens :D.
